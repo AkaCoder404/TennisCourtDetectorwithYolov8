@@ -1,0 +1,8 @@
+datasets/*
+slurm_outputs/
+yolov8s-pose.pt
+yolov8n.pt
+runs/
+
+# Don't include __pycache__ directories
+__pycache__/
