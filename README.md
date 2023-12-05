@@ -1,6 +1,5 @@
-# git remote add origin git@github.com:AkaCoder404/TennisCourtDetectorwithYolov8.git
-  git branch -M main
-  git push -u origin main
+# TennisCourtDetectorwithYolov8.git
+
 
 ## Background
 Inspired by https://github.com/yastrebksv/TennisCourtDetector. Dataset can be found at this github. The goal is to see the performance of YoloV8 at the same task.
